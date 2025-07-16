@@ -16,7 +16,7 @@ Currently, I'm building a student-focused financial planning app and working on 
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Seaborn, Matplotlib, Plotly  
 **MLOps / Tools:** Git, Streamlit, Power BI, Docker basics  
-**Platforms:** Kaggle, Colab, Jupyter  
+**Platforms:** Kaggle, Colab, Jupyter, ClickHouse, Ubuntu  
 **Workflow:** EDA → Feature Engineering → Modeling → Evaluation → Reporting
 
 ---
